@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "D:\\SpecFlow_Workspace\\Pradeep_Specflow_selenium\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DBF08C06-5AD2-4AFD-ABD4-0575DE28249C}|OrangeHRM\\OrangeHRM.csproj|d:\\specflow_workspace\\pradeep_specflow_selenium\\orangehrm\\drivers\\confiiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DBF08C06-5AD2-4AFD-ABD4-0575DE28249C}|OrangeHRM\\OrangeHRM.csproj|solutionrelative:orangehrm\\drivers\\confiiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DBF08C06-5AD2-4AFD-ABD4-0575DE28249C}|OrangeHRM\\OrangeHRM.csproj|d:\\specflow_workspace\\pradeep_specflow_selenium\\orangehrm\\drivers\\common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DBF08C06-5AD2-4AFD-ABD4-0575DE28249C}|OrangeHRM\\OrangeHRM.csproj|solutionrelative:orangehrm\\drivers\\common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -23,27 +19,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Confiiguration.cs",
-              "DocumentMoniker": "D:\\SpecFlow_Workspace\\Pradeep_Specflow_selenium\\OrangeHRM\\Drivers\\Confiiguration.cs",
-              "RelativeDocumentMoniker": "OrangeHRM\\Drivers\\Confiiguration.cs",
-              "ToolTip": "D:\\SpecFlow_Workspace\\Pradeep_Specflow_selenium\\OrangeHRM\\Drivers\\Confiiguration.cs",
-              "RelativeToolTip": "OrangeHRM\\Drivers\\Confiiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T07:32:05.661Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Common.cs",
               "DocumentMoniker": "D:\\SpecFlow_Workspace\\Pradeep_Specflow_selenium\\OrangeHRM\\Drivers\\Common.cs",
               "RelativeDocumentMoniker": "OrangeHRM\\Drivers\\Common.cs",
               "ToolTip": "D:\\SpecFlow_Workspace\\Pradeep_Specflow_selenium\\OrangeHRM\\Drivers\\Common.cs",
               "RelativeToolTip": "OrangeHRM\\Drivers\\Common.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T07:29:47.907Z"
+              "WhenOpened": "2024-09-29T07:29:47.907Z",
+              "EditorCaption": ""
             }
           ]
         }

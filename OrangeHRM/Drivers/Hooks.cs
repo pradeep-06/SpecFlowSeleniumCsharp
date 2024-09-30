@@ -21,6 +21,9 @@ namespace OrangeHRM.Drivers
         private readonly IObjectContainer container;
         public static ISpecFlowOutputHelper _specFlowOutputHelper;
         public IWebDriver driver;
+        public static string application;
+        public static string title;
+
 
         public Hooks(IObjectContainer container, ISpecFlowOutputHelper specFlowOutputHelper)
         {
@@ -40,6 +43,9 @@ namespace OrangeHRM.Drivers
         [BeforeFeature]
         public static void BeforeFeature(FeatureContext featurecontext) {
             _feature = extentReports.CreateTest<Feature>(featurecontext.FeatureInfo.Title);
+            string[] tags = featurecontext.FeatureInfo.Tags;
+            application = tags.FirstOrDefault();
+            title = featurecontext.FeatureInfo.Title;
         }
         [AfterFeature]
         public static void AfterFeature(FeatureContext featurecontext)
