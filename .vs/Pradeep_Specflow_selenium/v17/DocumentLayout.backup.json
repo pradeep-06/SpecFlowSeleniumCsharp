@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SpecFlow_Workspace\\Pradeep_Specflow_selenium\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF08C06-5AD2-4AFD-ABD4-0575DE28249C}|OrangeHRM\\OrangeHRM.csproj|d:\\specflow_workspace\\pradeep_specflow_selenium\\orangehrm\\drivers\\confiiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBF08C06-5AD2-4AFD-ABD4-0575DE28249C}|OrangeHRM\\OrangeHRM.csproj|solutionrelative:orangehrm\\drivers\\confiiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF08C06-5AD2-4AFD-ABD4-0575DE28249C}|OrangeHRM\\OrangeHRM.csproj|d:\\specflow_workspace\\pradeep_specflow_selenium\\orangehrm\\utility\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBF08C06-5AD2-4AFD-ABD4-0575DE28249C}|OrangeHRM\\OrangeHRM.csproj|solutionrelative:orangehrm\\utility\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF08C06-5AD2-4AFD-ABD4-0575DE28249C}|OrangeHRM\\OrangeHRM.csproj|d:\\specflow_workspace\\pradeep_specflow_selenium\\orangehrm\\orangehrm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DBF08C06-5AD2-4AFD-ABD4-0575DE28249C}|OrangeHRM\\OrangeHRM.csproj|solutionrelative:orangehrm\\orangehrm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF08C06-5AD2-4AFD-ABD4-0575DE28249C}|OrangeHRM\\OrangeHRM.csproj|d:\\specflow_workspace\\pradeep_specflow_selenium\\orangehrm\\drivers\\common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBF08C06-5AD2-4AFD-ABD4-0575DE28249C}|OrangeHRM\\OrangeHRM.csproj|solutionrelative:orangehrm\\drivers\\common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Confiiguration.cs",
+              "DocumentMoniker": "D:\\SpecFlow_Workspace\\Pradeep_Specflow_selenium\\OrangeHRM\\Drivers\\Confiiguration.cs",
+              "RelativeDocumentMoniker": "OrangeHRM\\Drivers\\Confiiguration.cs",
+              "ToolTip": "D:\\SpecFlow_Workspace\\Pradeep_Specflow_selenium\\OrangeHRM\\Drivers\\Confiiguration.cs",
+              "RelativeToolTip": "OrangeHRM\\Drivers\\Confiiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T07:32:05.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DBConnection.cs",
+              "DocumentMoniker": "D:\\SpecFlow_Workspace\\Pradeep_Specflow_selenium\\OrangeHRM\\Utility\\DBConnection.cs",
+              "RelativeDocumentMoniker": "OrangeHRM\\Utility\\DBConnection.cs",
+              "ToolTip": "D:\\SpecFlow_Workspace\\Pradeep_Specflow_selenium\\OrangeHRM\\Utility\\DBConnection.cs",
+              "RelativeToolTip": "OrangeHRM\\Utility\\DBConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T07:31:56.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrangeHRM",
+              "DocumentMoniker": "D:\\SpecFlow_Workspace\\Pradeep_Specflow_selenium\\OrangeHRM\\OrangeHRM.csproj",
+              "RelativeDocumentMoniker": "OrangeHRM\\OrangeHRM.csproj",
+              "ToolTip": "D:\\SpecFlow_Workspace\\Pradeep_Specflow_selenium\\OrangeHRM\\OrangeHRM.csproj",
+              "RelativeToolTip": "OrangeHRM\\OrangeHRM.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-29T07:30:18.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Common.cs",
+              "DocumentMoniker": "D:\\SpecFlow_Workspace\\Pradeep_Specflow_selenium\\OrangeHRM\\Drivers\\Common.cs",
+              "RelativeDocumentMoniker": "OrangeHRM\\Drivers\\Common.cs",
+              "ToolTip": "D:\\SpecFlow_Workspace\\Pradeep_Specflow_selenium\\OrangeHRM\\Drivers\\Common.cs",
+              "RelativeToolTip": "OrangeHRM\\Drivers\\Common.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T07:29:47.907Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

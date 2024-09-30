@@ -1,0 +1,25 @@
+﻿{
+  "username ": "Pradeep01",
+  "Password": "",
+
+  "DBconnection": {
+    "UAT": "",
+    "DEV": "",
+    "PROD": ""
+  },
+  "applications": {
+
+    "OrangeHRM": {
+      "URL": ""
+    },
+    "Flipkart": {
+      "URL": ""
+    }
+    "MakeMyTrip" {
+      "UAT": { "URL": "" },
+      "DEV": {"URL": ""}
+    }
+  }
+
+
+}
